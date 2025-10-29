@@ -30,7 +30,7 @@
    "require": {
     "php": "^8.0",
     "laravel/framework": "^10.0",
-    "beyondcode/laravel-websockets": "^2.1"
+    "beyondcode/laravel-websockets": "^2.1",
     "pusher/pusher-php-server": "^7.0",
     "illuminate/support": "^10.0"
     },
