@@ -27,10 +27,14 @@
         "chat",
         "customer chat"
     ],
-    "require": {
-        "laravel/framework": "^10.0",
-        "beyondcode/laravel-websockets": "^1.13"
+   "require": {
+    "php": "^8.0",
+    "laravel/framework": "^10.0",
+    "beyondcode/laravel-websockets": "^2.0",
+    "pusher/pusher-php-server": "^7.0",
+    "illuminate/support": "^10.0"
     },
+
     "autoload": {
         "psr-4": {
             "Ilmedova\\Chattle\\": "src"
